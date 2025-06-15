@@ -17,6 +17,7 @@ Um script JavaScript para limpar automaticamente sua playlist **“Assistir mais
 3. Cole o conteúdo do script
 4. Pressione `Enter`
 5. O script fará o resto automaticamente 💨
+6. Ao finalizar, recarregue a página e verifique se o script executou corretamente.
 
 > **Importante:** O script não envia nenhum dado. Toda a execução ocorre localmente no seu navegador.  
 > **Dica:** Role até o final da playlist manualmente antes de executar, caso prefira não automatizar a rolagem.
